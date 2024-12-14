@@ -5,7 +5,10 @@
 ---
 
 ## 🌐 Socials:
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-%230000FF?style=flat&logo=About.me&logoColor=white)](https://tuli2tuli.vercel.app/) • [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh297) • [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/tuli2tuli) 
+## 🌐 Socials:
+
+[Portfolio](tuli2tuli.vercel.app) • [LinkedIn](https://linkedin.com/in/devesh297) • [Twitter](https://twitter.com/tuli2tuli)
+
 
 ---
 
