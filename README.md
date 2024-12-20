@@ -6,24 +6,30 @@
 
 
 ## 🌐 Socials:
-<table style="border-collapse: collapse; border: none; height: 400px;">
+<table style="border-collapse: collapse; border: none; height: 300px; width: 100%;">
   <tr>
+    <!-- Left Column: Image -->
     <td style="border: none; width: 50%; vertical-align: middle;">
       <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" style="width: 100%; height: auto;">
     </td>
+
+    <!-- Right Column: Social Icons -->
     <td style="border: none; width: 50%; vertical-align: middle; text-align: center;">
-      <a href="https://tuli2tuli.vercel.app" style="display: block; margin: 10% 0;">
-        <img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" style="width: 10%; height: auto;"> Portfolio
-      </a>
-      <a href="https://linkedin.com/in/devesh297" style="display: block; margin: 10% 0;">
-        <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" style="width: 10%; height: auto;"> LinkedIn
-      </a>
-      <a href="https://twitter.com/tuli2tuli" style="display: block; margin: 10% 0;">
-        <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" style="width: 10%; height: auto;"> Twitter
-      </a>
+      <div style="display: flex; flex-direction: column; justify-content: space-around; height: 100%;">
+        <a href="https://tuli2tuli.vercel.app" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" style="width: 20%; height: auto;">
+        </a>
+        <a href="https://linkedin.com/in/devesh297" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/100/0077b5/linkedin.png" style="width: 20%; height: auto;">
+        </a>
+        <a href="https://x.com/tuli2tuli" target="_blank">
+          <img src="https://img.icons8.com/ios-filled/100/000000/x-logo.png" style="width: 20%; height: auto;">
+        </a>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 
