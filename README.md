@@ -1,23 +1,17 @@
 # Hi there! 👋 I'm Devesh Tuli
-
----
-
-## 🌐 Socials:
-# Hi there! 👋 I'm Devesh Tuli
-
-<img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="300">
+<img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="300" height="300">
 
 ---
 
 ## 🌐 Socials:
 <a href="https://tuli2tuli.vercel.app" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" width="60" height="60" style="display: block; margin-bottom: 10px;" />
+        <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734670860/animal-shelter_s1q7gn.png" width="100" height="100" style="display: block; margin-bottom: 10px;" />
       </a>  
       <a href="https://linkedin.com/in/devesh297" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/100/0077b5/linkedin.png" width="60" height="60" style="display: block; margin-bottom: 10px;" />
+        <img src="https://img.icons8.com/ios-filled/100/0077b5/linkedin.png" width="100" height="100" style="display: block; margin-bottom: 10px;" />
       </a>
       <a href="https://twitter.com/tuli2tuli" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/100/1DA1F2/twitter.png" width="60" height="60" style="display: block; margin-bottom: 10px;" />
+        <img src="https://img.icons8.com/ios-filled/100/1DA1F2/twitter.png" width="100" height="100" style="display: block; margin-bottom: 10px;" />
       </a>
 
 
