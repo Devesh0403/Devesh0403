@@ -8,7 +8,7 @@
 ## 🌐 Socials:
 
 [Portfolio](tuli2tuli.vercel.app) • [LinkedIn](https://linkedin.com/in/devesh297) • [Twitter](https://twitter.com/tuli2tuli)
-![Contact Me!!](https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png)
+![Contact Me!!](https://res.cloudinary.com/dqgrwjod2/image/upload/c_fill,g_auto,h_250,w_970/b_rgb:000000,e_gradient_fade,y_-0.50/c_scale,co_rgb:ffffff,fl_relative,l_text:montserrat_25_style_light_align_center:Shop%20Now,w_0.5,y_0.18/v1734669165/octocat-1734668995762_lnmb3z.png)
 
 
 ---
