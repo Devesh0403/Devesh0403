@@ -5,17 +5,12 @@
 ## 🌐 Socials:
 # Hi there! 👋 I'm Devesh Tuli
 
+<img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="300">
+
 ---
 
 ## 🌐 Socials:
-
-<table>
-  <tr>
-    <td style="width: 300px;">
-      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="300">
-    </td>
-    <td style="width: auto;">
-      <a href="https://tuli2tuli.vercel.app" target="_blank">
+<a href="https://tuli2tuli.vercel.app" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" width="60" height="60" style="display: block; margin-bottom: 10px;" />
       </a>  
       <a href="https://linkedin.com/in/devesh297" target="_blank">
@@ -24,9 +19,8 @@
       <a href="https://twitter.com/tuli2tuli" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/1DA1F2/twitter.png" width="60" height="60" style="display: block; margin-bottom: 10px;" />
       </a>
-    </td>
-  </tr>
-</table>
+
+
 
 ---
 
