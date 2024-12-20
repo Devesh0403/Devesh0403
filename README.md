@@ -4,13 +4,15 @@
 
 ---
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 
 [Portfolio](tuli2tuli.vercel.app) • [LinkedIn](https://linkedin.com/in/devesh297) • [Twitter](https://twitter.com/tuli2tuli)
+![Contact Me!!](https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png)
 
 
 ---
+
 
 ## 💻 Tech Stack:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
