@@ -6,20 +6,26 @@
 
 
 ## 🌐 Socials:
-<table>
+<table style="border-collapse: collapse; border: none; height: 400px;">
   <tr>
-    <td>
-      <p>
-        <a href="https://tuli2tuli.vercel.app">Portfolio</a><br>
-        <a href="https://linkedin.com/in/devesh297">LinkedIn</a><br>
-        <a href="https://twitter.com/tuli2tuli">Twitter</a>
-      </p>
+    <td style="border: none; width: 50%; vertical-align: middle;">
+      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" style="width: 100%; height: auto;">
     </td>
-    <td>
-      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="400" height="400">
+    <td style="border: none; width: 50%; vertical-align: middle; text-align: center;">
+      <a href="https://tuli2tuli.vercel.app" style="display: block; margin: 10% 0;">
+        <img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" style="width: 10%; height: auto;"> Portfolio
+      </a>
+      <a href="https://linkedin.com/in/devesh297" style="display: block; margin: 10% 0;">
+        <img src="https://img.icons8.com/ios-filled/50/0077b5/linkedin.png" style="width: 10%; height: auto;"> LinkedIn
+      </a>
+      <a href="https://twitter.com/tuli2tuli" style="display: block; margin: 10% 0;">
+        <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" style="width: 10%; height: auto;"> Twitter
+      </a>
     </td>
   </tr>
 </table>
+
+
 
 
 
