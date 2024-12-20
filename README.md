@@ -3,12 +3,18 @@
 ---
 
 ## 🌐 Socials:
-| ![Character](https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png =250x250) |
-| ------------------------------------------------------------------------------------------------------------- |
-| [![Portfolio](https://img.icons8.com/ios-filled/100/000000/portfolio.png)](https://tuli2tuli.vercel.app)           |
-| [![LinkedIn](https://img.icons8.com/ios-filled/100/0077b5/linkedin.png)](https://linkedin.com/in/devesh297)       |
-| [![X](https://upload.wikimedia.org/wikipedia/commons/5/55/X-logo.svg)](https://x.com/tuli2tuli)                  |
-
+<table>
+  <tr>
+    <td style="width: 250px;">
+      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="250">
+    </td>
+    <td>
+      [![Portfolio](https://img.icons8.com/ios-filled/100/000000/portfolio.png)](https://tuli2tuli.vercel.app)  
+      [![LinkedIn](https://img.icons8.com/ios-filled/100/0077b5/linkedin.png)](https://linkedin.com/in/devesh297)  
+      [![Twitter](https://img.icons8.com/ios-filled/100/1DA1F2/twitter.png)](https://twitter.com/tuli2tuli)
+    </td>
+  </tr>
+</table>
 
 
 ---
