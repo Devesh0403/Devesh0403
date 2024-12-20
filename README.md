@@ -1,42 +1,17 @@
 # Hi there! 👋 I'm Devesh Tuli
 
-
-
 ---
-
 
 ## 🌐 Socials:
-<table style="border-collapse: collapse; border: none; height: 300px; width: 100%;">
-  <tr>
-    <!-- Left Column: Image -->
-    <td style="border: none; width: 50%; vertical-align: middle;">
-      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" style="width: 100%; height: auto;">
-    </td>
-
-    <!-- Right Column: Social Icons -->
-    <td style="border: none; width: 50%; vertical-align: middle; text-align: center;">
-      <div style="display: flex; flex-direction: column; justify-content: space-around; height: 100%;">
-        <a href="https://tuli2tuli.vercel.app" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" style="width: 20%; height: auto;">
-        </a>
-        <a href="https://linkedin.com/in/devesh297" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/0077b5/linkedin.png" style="width: 20%; height: auto;">
-        </a>
-        <a href="https://x.com/tuli2tuli" target="_blank">
-          <img src="https://img.icons8.com/ios-filled/100/000000/x-logo.png" style="width: 20%; height: auto;">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
-
-
+|      |      |
+|------|------|
+| ![Character](https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png) | 
+[![Portfolio](https://img.icons8.com/ios-filled/100/000000/portfolio.png)](https://tuli2tuli.vercel.app)  
+[![LinkedIn](https://img.icons8.com/ios-filled/100/0077b5/linkedin.png)](https://linkedin.com/in/devesh297)  
+[![X](https://upload.wikimedia.org/wikipedia/commons/5/55/X-logo.svg)](https://x.com/tuli2tuli) |
 
 
 ---
-
 
 ## 💻 Tech Stack:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
@@ -66,4 +41,3 @@
 
 ## ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
-
