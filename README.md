@@ -8,7 +8,8 @@
 ## 🌐 Socials:
 
 [Portfolio](tuli2tuli.vercel.app) • [LinkedIn](https://linkedin.com/in/devesh297) • [Twitter](https://twitter.com/tuli2tuli)
-![Contact Me!!](https://res.cloudinary.com/dqgrwjod2/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1734669165/octocat-1734668995762_lnmb3z.png)
+<img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="200" height="200">
+
 
 
 ---
