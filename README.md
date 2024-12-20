@@ -6,9 +6,20 @@
 
 
 ## 🌐 Socials:
-
-[Portfolio](tuli2tuli.vercel.app) • [LinkedIn](https://linkedin.com/in/devesh297) • [Twitter](https://twitter.com/tuli2tuli)
-<img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="200" height="200">
+<table>
+  <tr>
+    <td>
+      <p>
+        <a href="https://tuli2tuli.vercel.app">Portfolio</a><br>
+        <a href="https://linkedin.com/in/devesh297">LinkedIn</a><br>
+        <a href="https://twitter.com/tuli2tuli">Twitter</a>
+      </p>
+    </td>
+    <td>
+      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="400" height="400">
+    </td>
+  </tr>
+</table>
 
 
 
