@@ -11,10 +11,10 @@
 
 <table>
   <tr>
-    <td style="width: 250px;">
-      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="250">
+    <td style="width: 300px;">
+      <img src="https://res.cloudinary.com/dqgrwjod2/image/upload/v1734669165/octocat-1734668995762_lnmb3z.png" alt="Character Name" width="300">
     </td>
-    <td>
+    <td style="width: auto;">
       <a href="https://tuli2tuli.vercel.app" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/000000/portfolio.png" width="60" height="60" style="display: block; margin-bottom: 10px;" />
       </a>  
